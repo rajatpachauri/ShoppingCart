@@ -1,4 +1,5 @@
 # ShoppingCart
-## A place for buying all the grocries
+## A perfect place for buying all the grocries
+
 
 
